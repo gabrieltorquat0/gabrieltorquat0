@@ -1,6 +1,4 @@
 ### Olá sou Gabriel Torquato 👋
-
-- 🔭 Hoje trabalho com Python
 - 🌱 Estudando orientação a objeto do python
 
 <div align="center">
