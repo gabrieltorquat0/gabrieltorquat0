@@ -1,5 +1,5 @@
 ### Olá sou Gabriel Torquato 👋
-- 🌱 Atualmente estou aperfeiçoando meu conhecimento de programação na FUNTEC e PISO.
+- 🌱 Atualmente estou aperfeiçoando meu conhecimento de programação na FUNTEC.
 
 <div align="center">
   <a href="https://github.com/gabrieltorquat0">
