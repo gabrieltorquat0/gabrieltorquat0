@@ -1,5 +1,5 @@
 ### Olá sou Gabriel Torquato 👋
-- 🌱 Buscando aprender mais sobre banco de dados atualmente.
+- 🌱 Atualmente estou aperfeiçoando meu conhecimento de programação na FUNTEC e PISO.
 
 <div align="center">
   <a href="https://github.com/gabrieltorquat0">
