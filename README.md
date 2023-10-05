@@ -6,10 +6,10 @@ Olá, sou Gabriel Torquato, um estudante de Ciência da Computação de 19 anos 
 
 ### Projeto: [Gerenciador de Estoque](https://github.com/gabrieltorquat0/funtec-java-projeto-controleDeEstoque) 
 
-- **Tecnologias utilizadas:** HTML, CSS, JAVA
-- https://github.com/gabrieltorquat0/funtec-java-projeto-controleDeEstoque
+- **Tecnologias utilizadas:** HTML, CSS, JAVA e SpringBoot
+- O código-fonte do projeto está disponível no [GitHub](https://github.com/gabrieltorquat0/funtec-java-projeto-controleDeEstoque)
 
-Breve descrição do projeto 1.
+Este sistema permite o gerenciamento de clientes, fornecedores e produtos. Você pode adicionar, pesquisar e visualizar informações detalhadas sobre clientes, fornecedores e produtos, facilitando o controle eficiente do seu estoque.
 
 ## Contato
 
