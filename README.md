@@ -1,19 +1,14 @@
-![image](https://github.com/gabrieltorquat0/gabrieltorquat0/assets/48134833/04cd9dd3-75a4-4efd-9ef6-7943b1aa1aaa)# Bem-vindo ao meu perfil!
+# Bem-vindo ao meu perfil!
 
 Olá, sou Gabriel Torquato, um estudante de Ciência da Computação de 19 anos na Universidade Barão de Mauá, no segundo semestre. Tenho paixão por programação. Aqui você encontrará informações sobre meus projetos e como entrar em contato comigo.
 
-- 🌱 Atualmente estou aperfeiçoando meu conhecimento de programação com o curso de Java da DIO.ME!
+- 🌱 Atualmente estou aperfeiçoando meu conhecimento de programação com o curso de Java/Angular da DIO.ME!
 
 ### Hard Skills
 
-- Linguagens de Programação:
-  - ![Java](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Light.svg)
-  - ![Python](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Light.svg)
-- Tecnologias Web:
-  - ![HTML](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg)
-  - ![CSS](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg)
-- Frameworks:
-  - ![SpringBoot](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Spring-Light.svg)
+- Linguagens de Programação: Java, Python
+- Tecnologias Web: HTML, CSS
+- Frameworks: SpringBoot
 
 ### Projeto: [Gerenciador de Estoque](https://github.com/gabrieltorquat0/funtec-java-projeto-controleDeEstoque)
 
