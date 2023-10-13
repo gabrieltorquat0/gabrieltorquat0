@@ -9,10 +9,11 @@ Olá, sou Gabriel Torquato, um estudante de Ciência da Computação de 19 anos 
 - Linguagens de Programação: Java, Python
 - Tecnologias Web: HTML, CSS
 - Frameworks: SpringBoot
+- BD: PostgreeSQL
 
 ### Projeto: [Gerenciador de Estoque](https://github.com/gabrieltorquat0/funtec-java-projeto-controleDeEstoque)
 
-- **Tecnologias utilizadas:** HTML, CSS, JAVA e SpringBoot
+- **Tecnologias utilizadas:** HTML, CSS, JAVA, SpringBoot e PostgreeSQL
 - O código-fonte do projeto está disponível no [GitHub](https://github.com/gabrieltorquat0/funtec-java-projeto-controleDeEstoque)
 
 Este sistema permite o gerenciamento de clientes, fornecedores e produtos. Você pode adicionar, pesquisar e visualizar informações detalhadas sobre clientes, fornecedores e produtos, facilitando o controle eficiente do seu estoque.
