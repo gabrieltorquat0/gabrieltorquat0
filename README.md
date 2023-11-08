@@ -2,7 +2,7 @@
 
 Olá, sou Gabriel Torquato, um estudante de Ciência da Computação de 19 anos na Universidade Barão de Mauá, no segundo semestre. Tenho paixão por programação. Aqui você encontrará informações sobre meus projetos e como entrar em contato comigo.
 
-- 🌱 Atualmente estou aperfeiçoando meu conhecimento de programação com o curso de Java/Angular da DIO.ME!
+- 🌱 Atualmente estou aperfeiçoando meu conhecimento de programação com um curso de Banco de Dados Oracle: SQL + PL/SQL + Modelagem na Udemy!
 
 ### Hard Skills
 
